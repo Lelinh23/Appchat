@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234978859917",
+    "project_id": "chat-2fe24",
+    "storage_bucket": "chat-2fe24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234978859917:android:830b96f3a67e46d77b7bc4",
+        "android_client_info": {
+          "package_name": "com.example.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234978859917-vq4l9l2bf8uq8vfcj83g6322ejaujnhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgYFilLnTctLgEH_cnONKu2qSSejf9ve8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234978859917-vq4l9l2bf8uq8vfcj83g6322ejaujnhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
